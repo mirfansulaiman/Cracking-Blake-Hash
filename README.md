@@ -26,5 +26,5 @@ Just like this and change the text <i>The quick brown fox jumps over the lazy do
 Reference for find type of blake hash : </br></br>
 [**BLAKE (Hash Funtion)**](https://en.wikipedia.org/wiki/BLAKE_(hash_function))</br>
 [**Python Hashlib**](https://docs.python.org/3/library/hashlib.html)<br>
-[**Blake Official**](https://github.com/BLAKE2/BLAKE2)
-[***Pyblake2*](https://pythonhosted.org/pyblake2/)
+[**Blake Official**](https://github.com/BLAKE2/BLAKE2)<br>
+[**Pyblake2**](https://pythonhosted.org/pyblake2/)
